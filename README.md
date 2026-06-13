@@ -1,19 +1,21 @@
+
 # 👋 Hi, I'm Christian Torchia
 
-- Informatics & Telecommunications Graduate    
-- Python | Networking | Linux | Security Basics  
-- Currently learning ethical hacking, scripting, and offensive security  
-- AI assisted development workflow (building with LLMs)
+Cybersecurity student in Turin, focused on offensive security.
+Windows & Active Directory, privilege escalation, Linux and building my own tools.
+
+- 🎯 Target: red team / penetration testing
+-  Python | Linux | Active Directory | Kerberos | Networking
+-  christiantorchia.com
 
 ## 🔧 Projects
-- [port_scanner](https://github.com/torchiachristian/port_scanner): Fast multithreaded TCP port scanner built in Python
-- [password_strength_checker](https://github.com/torchiachristian/password_strength_checker): Python tool to analyze password strength also with entropy estimation
-- [simple_file_hash_checker_1](https://github.com/torchiachristian/simple_file_hash_checker_1): Python script to compute MD5,SHA1, and SHA256 hashes of files to verify their integrity
-- [mini_ping_sweeper](https://github.com/torchiachristian/mini_ping_sweeper): Python tool to scan a local network and identify the active hosts using ping
-- [habit_tracker](https://github.com/torchiachristian/habit-tracker): Python/tkinter mini app to track human habits with SQLite storage and cool percentage graphs, done in Linux
 
-## 📫 Contact
-📧 forzachris2011@gmail.com  
-🌍 [github.com/torchiachristian](https://github.com/torchiachristian)
+- [bh-path-visualizer](https://github.com/torchiachristian/bh-path-visualizer): Standalone BloodHound attack-path analyzer & D3.js visualizer. Parses raw SharpHound JSON and computes AD privilege-escalation paths without Neo4j
+- [AD-Attack-Toolkit](https://github.com/torchiachristian/AD-Attack-Toolkit): Active Directory pentest framework. AS-REP Roasting, Kerberoasting, Pass-the-Hash, included VirtualBox lab
+- [VulnScan](https://github.com/torchiachristian/VulnScan): Automated web vulnerability scanner (nmap/nikto/sqlmap) with Flask dashboard and PDF reporting
+- [HomeNetMonitor](https://github.com/torchiachristian/HomeNetMonitor): Real time network monitoring dashboard. Scapy packet analysis, device detection, anomaly alerts
 
-.
+## 📫 Contacts
+
+📧 christian.torchia.tech@gmail.com
+🌐 [christiantorchia.com](https://christiantorchia.com)
