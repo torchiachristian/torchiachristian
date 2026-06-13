@@ -5,8 +5,7 @@ Cybersecurity student in Turin, focused on offensive security.
 Windows & Active Directory, privilege escalation, Linux and building my own tools.
 
 - 🎯 Target: red team / penetration testing
--  Python | Linux | Active Directory | Kerberos | Networking
--  christiantorchia.com
+- Active Directory | Web App Security | Privilege Escalation | Python · Bash · PowerShell | Linux
 
 ## 🔧 Projects
 
