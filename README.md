@@ -1,19 +1,35 @@
-
-# 👋 Hi, I'm Christian Torchia
+## Christian Torchia
 
 Cybersecurity student in Turin, focused on offensive security.
-Windows & Active Directory, privilege escalation, Linux and building my own tools.
+Active Directory, privilege escalation, Linux, and tooling I build by myself.
 
-- 🎯 Target: red team / penetration testing
-- Active Directory | Web App Security | Privilege Escalation | Python · Bash · PowerShell | Linux
+Target: red team / penetration testing.
 
-## 🔧 Projects
+**Focus:** Active Directory · Web application security · Privilege escalation · LLM security
+**Stack:** Python · Bash · PowerShell · Linux
 
-- [bh-path-visualizer](https://github.com/torchiachristian/bh-path-visualizer): Standalone BloodHound attack-path analyzer & D3.js visualizer. Parses raw SharpHound JSON and computes AD privilege-escalation paths without Neo4j
-- [AD-Attack-Toolkit](https://github.com/torchiachristian/AD-Attack-Toolkit): Active Directory pentest framework. AS-REP Roasting, Kerberoasting, Pass-the-Hash, included VirtualBox lab
-- [VulnScan](https://github.com/torchiachristian/VulnScan): Automated web vulnerability scanner (nmap/nikto/sqlmap) with Flask dashboard and PDF reporting
+### Projects
 
-## 📫 Contacts
+**[ad-attack-toolkit](https://github.com/torchiachristian/ad-attack-toolkit)**
+Automated Active Directory assessment: LDAP enumeration, AS-REP Roasting,
+Kerberoasting, Pass-the-Hash verification. PDF report with findings and
+remediation, VirtualBox lab included.
 
-📧 christian.torchia.tech@gmail.com
-🌐 [christiantorchia.com](https://christiantorchia.com)
+**[bh-path-visualizer](https://github.com/torchiachristian/bh-path-visualizer)**
+Parses SharpHound output and computes privilege-escalation paths to Domain
+Admins without Neo4j. Choke-point report on the terminal and an interactive D3
+graph in a single HTML file.
+
+**[llmprobe-v2](https://github.com/torchiachristian/llmprobe-v2)**
+Security testing for LLM endpoints: system prompt leak, prompt injection,
+jailbreak, policy bypass. Three-signal verdict with confidence level and
+evidence. Works against Ollama and OpenAI-compatible endpoints.
+
+**[VulnScan](https://github.com/torchiachristian/VulnScan)**
+Web vulnerability scanner in Python: SQL injection, reflected XSS, path
+traversal, security headers. Crawler, Flask dashboard, PDF reporting.
+
+### Contact
+
+christian.torchia.tech@gmail.com
+[christiantorchia.com](https://christiantorchia.com)
