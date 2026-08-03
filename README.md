@@ -1,7 +1,7 @@
 ## Torchia Christian
 
 Cybersecurity student in Turin, focused on offensive security.
-Active Directory, privilege escalation, Linux, and tooling I build by myself.
+Active Directory, privilege escalation, Linux, and tools I build by myself.
 
 Target: red team / penetration testing.
 
