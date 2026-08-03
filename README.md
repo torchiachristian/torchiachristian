@@ -29,7 +29,7 @@ evidence. Works against Ollama and OpenAI-compatible endpoints.
 Web vulnerability scanner in Python: SQL injection, reflected XSS, path
 traversal, security headers. Crawler, Flask dashboard, PDF reporting.
 
-### Contact
+### Contacts
 
 christian.torchia.tech@gmail.com
-[christiantorchia.com](https://christiantorchia.com)
+[christiantorchia.com]  (https://christiantorchia.com)
