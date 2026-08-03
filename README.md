@@ -32,4 +32,4 @@ traversal, security headers. Crawler, Flask dashboard, PDF reporting.
 ### Contacts
 
 christian.torchia.tech@gmail.com
-[christiantorchia.com]  (https://christiantorchia.com)
+[christiantorchia.com](https://christiantorchia.com)
